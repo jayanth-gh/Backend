@@ -1,2 +1,3 @@
 node_modules/
 products/config/db.js
+.env
